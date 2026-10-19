@@ -1,0 +1,10 @@
+{
+  "tools": [
+    {
+      "id": "formatted-file-download",
+      "package": "platform-tool-template",
+      "export": "FormattedFileDownload",
+      "manifestExport": "toolManifest"
+    }
+  ]
+}
